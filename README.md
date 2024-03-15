@@ -1,2 +1,2 @@
 # SimpleML
-Series of Excercises with ML from my course
+Small project for ML from my course in FSFM
